@@ -1,0 +1,15 @@
+[package]
+name = "malacost"
+version = "0.0.1"
+edition = "2024"
+rust-version = "1.85"
+description = "Machine learning library in Rust (work in progress)"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/C-Retamales/malacost"
+readme = "README.md"
+keywords = ["machine-learning", "regression", "pls"]
+categories = ["science", "algorithms"]
+authors = ["Carlos Retamales Aparicio <carlos.retamales.a@gmail.com>"]
+exclude = ["pasos.md"]
+
+[dependencies]
